@@ -1,5 +1,5 @@
 # 🚀 My Crypto - Real-time Analytical Dashboard
-
+Live - https://my-crypto-live-crypto-market-tracki.vercel.app/
 **My Crypto** is a professional-grade cryptocurrency tracking application that provides users with real-time market data, price trends, and analytical charts. Designed with a focus on speed and modern aesthetics.
 
 ## ✨ Key Features
