@@ -1,6 +1,6 @@
-# 🚀 CryptoPulse - Real-time Analytical Dashboard
+# 🚀 My Crypto - Real-time Analytical Dashboard
 
-**CryptoPulse** is a professional-grade cryptocurrency tracking application that provides users with real-time market data, price trends, and analytical charts. Designed with a focus on speed and modern aesthetics.
+**My Crypto** is a professional-grade cryptocurrency tracking application that provides users with real-time market data, price trends, and analytical charts. Designed with a focus on speed and modern aesthetics.
 
 ## ✨ Key Features
 - **Live Price Updates:** Real-time data synchronization using CoinGecko API.
